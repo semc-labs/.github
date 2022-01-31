@@ -1,6 +1,6 @@
 ## Hello from the SEMC team!
 
-[![The I/O flying to Io](/profile/banner.png)](https://github.com/semc-labs)
+[![The I/O flying to Io](/profile/banner.svg)](https://github.com/semc-labs)
 
 At SEMC we love using open source methods and research ideas to
 improve software quality and reliablity *in space* 🌌. We are 
